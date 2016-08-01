@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KBDUploader_Tests' do
+  pod 'KBDUploader', :path => '../'
+  
+  
+end
