@@ -1,0 +1,16 @@
+PODS:
+  - KBDUploader (0.1.0)
+
+DEPENDENCIES:
+  - KBDUploader (from `../`)
+
+EXTERNAL SOURCES:
+  KBDUploader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KBDUploader: c7cde7156600a99431d6200fba0c59b5105db324
+
+PODFILE CHECKSUM: a6aa970c32008d143f627f0f1630e4e152164816
+
+COCOAPODS: 1.1.0.beta.1

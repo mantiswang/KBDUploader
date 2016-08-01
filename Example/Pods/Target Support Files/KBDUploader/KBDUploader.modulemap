@@ -1,0 +1,6 @@
+framework module KBDUploader {
+  umbrella header "KBDUploader-umbrella.h"
+
+  export *
+  module * { export * }
+}
